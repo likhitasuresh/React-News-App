@@ -1,0 +1,24 @@
+.hidden{
+    display: none;
+}
+
+.color-nav{
+    background:linear-gradient(to right,  rgb(0, 0, 61), rgb(82, 118, 184) );
+  
+}
+.custom-control-label:hover{
+    cursor: pointer;
+}
+
+.css-2b097c-container{
+    width: 20%;
+}
+
+@media only screen and (max-width: 600px) {
+    .css-2b097c-container{
+        width: 80%;
+    }
+    
+  }
+
+ 

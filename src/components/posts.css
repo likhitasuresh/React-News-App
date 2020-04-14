@@ -1,0 +1,40 @@
+img.card-img-left{
+    width:25%;
+    height:14%;  
+    float: left;
+}
+div.card{
+    margin: auto;
+    padding: 3%;    
+}
+div.clickable:hover{
+    cursor: pointer;
+}
+div.card-body{
+    float:right;
+    width:75%;
+    height: 10%;
+}
+.modal-backdrop{
+    opacity: 0.5;
+    color: red !important;   
+}
+#modal-body{
+    text-align: center;
+}
+.guardian-div{        
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+      
+}
+div.card{
+    margin: 2%;
+    box-shadow: 1px 3px 1px #9E9E9E
+}
+.card-img-top{
+    border: 1px solid #ddd; /* Gray border */
+  border-radius: 4px;  /* Rounded border */
+  padding: 5px; /* Some padding */ 
+}

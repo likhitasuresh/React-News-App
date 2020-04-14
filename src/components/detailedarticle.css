@@ -1,0 +1,25 @@
+.hidden{
+    display: none;
+}
+
+.bookmark:hover{
+    cursor: pointer;
+}
+.guardian-div{        
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;      
+}
+.toast{
+    left: 35%;
+}
+@media only screen and (max-width: 900px) {
+    .toast{
+        left: 2%;
+    }
+    
+  }
+.arrow:hover{
+    cursor: pointer;
+}
