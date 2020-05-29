@@ -93,7 +93,7 @@ The webpage also supports adding and removing articles from the Bookmark tab.
 ## Functionality of the site
 
 
-<img height="210" src="screenshots/guardian_home.PNG"></img><img height="210" src="screenshots/ny_home.PNG"></img>
+<img height="200" src="screenshots/guardian_home.PNG"></img><img height="200" src="screenshots/ny_home.PNG"></img>
 
 <p align="center">Home tab<i></i></p>
 
@@ -131,7 +131,7 @@ The webpage also supports adding and removing articles from the Bookmark tab.
 
 <p align="center"><img height="210" src="screenshots/search_results.PNG"></img></p>
 
-<p align="center">Search Results for "Apple"<i></i></p>
+<p align="center"><i>Search Results for "Apple"</i></p>
 
 
 
