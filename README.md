@@ -1,3 +1,5 @@
+<a href="https://likhita-suresh-wt8.wl.r.appspot.com/guardian/home">Visit site</a>
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -80,6 +82,57 @@ The webpage also supports adding and removing articles from the Bookmark tab.
 
 * Frontend -  React JS
 * Backend - Node.js with Express
+
+### APIs 
+
+* Guardian News API
+* New York Times API
+* Bing Autosuggest API
+* CommentBox.io API
+
+## Functionality of the site
+
+
+<img height="210" src="screenshots/guardian_home.PNG"></img>  <img height="210" src="screenshots/ny_home.PNG"></img>
+
+<p align="center">Home tab<i></i></p>
+
+<img height="210" src="screenshots/guardian_world.PNG"></img>  <img height="210" src="screenshots/ny_world.PNG"></img>
+
+<p align="center"><i>World tab</i></p>
+
+<img height="210" src="screenshots/guardian_politics.PNG"></img>  <img height="210" src="screenshots/ny_politics.PNG"></img>
+
+<p align="center"><i>Politics tab</i></p>
+
+<img height="210" src="screenshots/guardian_technology.PNG"></img>  <img height="210" src="screenshots/ny_times.PNG"></img>
+
+<p align="center"><i>Technology tab</i></p>
+
+<img height="210" src="screenshots/guardian_business.PNG"></img>  <img height="210" src="screenshots/ny_business.PNG"></img>
+
+<p align="center"><i>Business tab</i></p>
+
+<p align="center"><img height="500" src="screenshots/detailed_article.PNG"></img></p>
+
+<p align="center"><i>Deatiled article with expandable news card and comment box</i></p>
+
+<p align="center"><img height="300" src="screenshots/favourites.PNG"></img></p>
+
+<p align="center"><i>Bookmarks from either news source</i></p>
+
+<p align="center"><img height="100" src="screenshots/toggle.PNG"></img></p>
+
+<p align="center"><i>Toggle switch to switch news sources</i></p>
+
+<p align="center"><img height="210" src="screenshots/search_dropdown.png"></img></p>
+
+<p align="center"><i>Search Drop Down</i></p>
+
+<p align="center"><img height="210" src="screenshots/search_results.PNG"></img></p>
+
+<p align="center">Search Results for "Apple"<i></i></p>
+
 
 
 
