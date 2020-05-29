@@ -67,6 +67,19 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 
-## About the site
+# About the site
 
-This is a react news site 
+This is a news site hosting headlines from two sources- Guardian News and New York Times. Based on the selection by the user, the top-headlines is of the following domains – world, politics, business, technology and sports. Each such article can be shared by the user on Facebook, Twitter or via Email.
+
+The user can open up any of the articles and have the option to share it on either Facebook or Twitter or via Email. For each article, after expanding, the user can even add comments on the articles if they like.
+
+The user can also search for any keyword to read articles about any topic of their choice with autosuggestions available for their search query.
+The webpage also supports adding and removing articles from the Bookmark tab.
+
+## About the Tech Stack Used
+
+* Frontend -  React JS
+* Backend - Node.js with Express
+
+
+
