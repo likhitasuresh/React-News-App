@@ -93,23 +93,23 @@ The webpage also supports adding and removing articles from the Bookmark tab.
 ## Functionality of the site
 
 
-<img height="200" src="screenshots/guardian_home.PNG">  </img><img height="200" src="screenshots/ny_home.PNG"></img>
+<img height="200" src="screenshots/guardian_home.PNG"></img>  <img height="200" src="screenshots/ny_home.PNG"></img>
 
-<p align="center">Home tab<i></i></p>
+<p align="center"><i>Home tab</i></p>
 
-<img height="200" src="screenshots/guardian_world.PNG">  </img><img height="200" src="screenshots/ny_world.PNG"></img>
+<img height="200" src="screenshots/guardian_world.PNG"></img>  <img height="200" src="screenshots/ny_world.PNG"></img>
 
 <p align="center"><i>World tab</i></p>
 
-<img height="200" src="screenshots/guardian_politics.PNG">  </img><img height="200" src="screenshots/ny_politics.PNG"></img>
+<img height="200" src="screenshots/guardian_politics.PNG"></img>  <img height="200" src="screenshots/ny_politics.PNG"></img>
 
 <p align="center"><i>Politics tab</i></p>
 
-<img height="200" src="screenshots/guardian_technology.PNG">  </img><img height="200" src="screenshots/ny_times.PNG"></img>
+<img height="200" src="screenshots/guardian_technology.PNG"></img>  <img height="200" src="screenshots/ny_times.PNG"></img>
 
 <p align="center"><i>Technology tab</i></p>
 
-<img height="200" src="screenshots/guardian_business.PNG">  </img><img height="200" src="screenshots/ny_business.PNG"></img>
+<img height="200" src="screenshots/guardian_business.PNG"></img>  <img height="200" src="screenshots/ny_business.PNG"></img>
 
 <p align="center"><i>Business tab</i></p>
 
